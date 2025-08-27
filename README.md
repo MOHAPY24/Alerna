@@ -13,7 +13,7 @@
 **Learn, Remember, Improve, Redo.**
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![License](https://img.shields.io/badge/License-GNU-green)
+![License](https://img.shields.io/badge/License-GPL3.0-green)
 
 Alerna is a **terminal-based chatbot** that **learns from your conversations**.
 If it doesn’t know how to answer something, you can teach it — and it will remember forever by saving to a local `training.json` file.
