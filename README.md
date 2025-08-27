@@ -39,7 +39,7 @@ It comes with **100 pre-recorded Q\&A entries** to get started right away, but g
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/alerna.git
+git clone https://github.com/MOHAPY24/alerna.git
 cd alerna
 ```
 
