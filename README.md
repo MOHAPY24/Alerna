@@ -12,7 +12,7 @@
 
 **Learn, Remember, Improve, Redo.**
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![License](https://img.shields.io/badge/License-GPL3.0-green)
 
 Alerna is a **terminal-based chatbot** that **learns from your conversations**.
@@ -117,7 +117,3 @@ Contributions, ideas, and pull requests are welcome!
 ## 📜 License
 
 This project is licensed under the **GNU General Public License** – free to use, learn from, and improve.
-
----
-
-⚡ Would you like me to also design a **GitHub banner/logo image** (like a retro neon “Alerna” header) that you can put at the very top above the ASCII art? It’ll really make the repo pop.
